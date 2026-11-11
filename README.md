@@ -20,6 +20,12 @@ An audio-driven anime night drive that runs in the browser.
 
 A track's loudness and tone become the road a cel-shaded car drifts down, with cinematic cameras and VHS-style effects. It opens on a demo loop synthesised in the browser, so there is a road the moment the page loads.
 
+## The player
+
+<img src="media/player.jpg" alt="The full player: song title and speed at the top, the 3D road in the middle, and the transport, seek bar and mode buttons along the bottom" width="100%">
+
+Song title and live speed up top; play, seek and the camera, drift and effect buttons along the bottom. The controls fade away after a few seconds of playback so the drive fills the screen.
+
 ## How the audio becomes the road
 
 | In the music | On the road |
